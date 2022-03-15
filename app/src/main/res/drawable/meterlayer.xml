@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <item
+        android:id="@+id/kwhImage"
+        android:width="500dp"
+        android:height="100dp"
+        android:left="245dp"
+        android:top="10dp">
+        <bitmap android:src="@drawable/notclicked" />
+    </item>
+
+    <item
+        android:id="@+id/kwhTextImage"
+        android:width="200dp"
+        android:height="100dp"
+        android:left="35dp"
+        android:top="10dp">
+        <bitmap android:src="@drawable/kvah" />
+    </item>
+
+    <!--kw text and image-->
+    <item
+        android:id="@+id/kwImage"
+        android:width="500dp"
+        android:height="100dp"
+        android:left="245dp"
+        android:top="120dp">
+        <bitmap android:src="@drawable/notclicked" />
+    </item>
+
+    <item
+        android:id="@+id/kwTextImage"
+        android:width="200dp"
+        android:height="100dp"
+        android:left="35dp"
+        android:top="120dp">
+        <bitmap android:src="@drawable/kw" />
+    </item>
+
+    <!--kvah text and image-->
+    <item
+        android:id="@+id/kvahImage"
+        android:width="500dp"
+        android:height="100dp"
+        android:left="245dp"
+        android:top="230dp">
+        <bitmap android:src="@drawable/notclicked" />
+    </item>
+
+    <item
+        android:id="@+id/kvahTextImage"
+        android:width="200dp"
+        android:height="100dp"
+        android:left="35dp"
+        android:top="230dp">
+        <bitmap android:src="@drawable/kwh" />
+    </item>
+
+
+</layer-list>

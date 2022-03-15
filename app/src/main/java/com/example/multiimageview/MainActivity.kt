@@ -48,7 +48,9 @@ private var myBitmap2: Bitmap? = null
 
 class MainActivity : AppCompatActivity() {
 
-    //akash
+    //akash jha
+    //Image will be saved only from android 9 and above
+    // this project is dedicated for multiple image in single Imageview
     private lateinit var viewBinding: ActivityMainBinding
 
     private var imageCapture: ImageCapture? = null

@@ -47,6 +47,8 @@ private var myBitmap2: Bitmap? = null
 
 
 class MainActivity : AppCompatActivity() {
+
+    //akash
     private lateinit var viewBinding: ActivityMainBinding
 
     private var imageCapture: ImageCapture? = null
